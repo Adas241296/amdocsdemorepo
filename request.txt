@@ -1,0 +1,24 @@
+{"ASIFRequest":{"jsonObject":"{
+"jobId" : "JB0000940392",
+"orderID" : "172642",
+"OrderType" : "Milestone",
+"activityName" : "Survey",
+"status" : "Date Changed",
+"fullConstructionManualMode" : null,
+"ConstructionResponse" : {
+"externalReferenceId" : "SAC2310734",
+"source" : "ORION",
+"estimatedCompletionDate" : "2022-03-07T00:00:00.000Z",
+"actualCompletedDate" : null,
+"reason" : "Customer info incorrect",
+"comments" : "Update from the site coordinator---Customer said that the POC will be Susan Misgen smisgen@singlepointsolutions.technology 303-548-8560",
+"p2ReferenceId" : null,
+"createdById" : "1bdf88cd-4ee6-4364-91e6-6c4f8e2550a5",
+"jobChangeType" : null,
+"createdDate" : null,
+"parentJob" : null,
+"hyperbuild" : null,
+"attributes" : null,
+"notificationAttributes" : null
+}
+}", "projectId":"Project1099535", "orderId":"172642", "eventName":"SURVEY_DATE_CHANGED", "executionMode":"AUTO", "correlationId":"JB0000940392", "systemName":"POLARIS", "contextParams":{convertedActualCompletionDate=null, SiteRegion=MOUNTAIN WEST REGION, ROEStatus=Completed, prefix=survey, currentDate=Mon Feb 28 22:43:01 UTC 2022, Division=WEST DIVISION, adHocFormattedCurrentDate=02-28-2022 22:43:01, convertedEstCompletionDate=2022-03-07}}}
